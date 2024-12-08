@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mbuccoli
-- 👀 I’m interested in speech processing, music information retrieval and machine/deep learning
-- 🌱 I’m currently learning a lot
+- 👋 Hi, I’m Michele Buccoli
+- 🧪 I got a PhD in 2016 on music information retrival and machine learning 
+- 🔍 I work at BdSound as a scientist researching audio/speech processing techniques, both DSP-based and AI-based
+- 🌱 I’m currently learning how to manage a large group of brilliant engineers
 - 📫 How to reach me: look at the contact section of my website http://mbuccoli.github.io
 
 <!---
